@@ -6,6 +6,7 @@ body {
   margin: 0;
   display: flex;
   min-height: 100vh;
+  background: rgb(221, 219, 219);
 }
 #wrapper {
   width: 500px;
