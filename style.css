@@ -20,6 +20,7 @@ body {
   display: flex;
   flex-direction: column;
   overflow: scroll;
+  font-weight: 300;
 }
 .income,
 .own {
